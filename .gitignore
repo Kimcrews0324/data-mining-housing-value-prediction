@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 1,
    "id": "492655aa-c27b-4637-81f7-f75c72ffd607",
    "metadata": {
     "jupyter": {
@@ -11,13 +11,12 @@
    },
    "outputs": [],
    "source": [
-    "#Kimberly Crews\n",
     "#pip install dmba"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 2,
    "id": "da74a537-71e0-4bab-a2a2-158a48fc1b1d",
    "metadata": {},
    "outputs": [],
@@ -35,7 +34,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 3,
    "id": "ac73730e-ce61-44eb-bf50-575bc908a246",
    "metadata": {},
    "outputs": [
@@ -142,7 +141,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 4,
    "id": "2b6ed6ba-9e0f-4e63-bc78-8d6334d0ef37",
    "metadata": {},
    "outputs": [
@@ -248,7 +247,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 5,
    "id": "a166c463-e873-4c9d-888b-e05698700c9f",
    "metadata": {},
    "outputs": [
@@ -376,3 +375,6 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
+
+
+
