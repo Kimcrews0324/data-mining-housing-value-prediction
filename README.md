@@ -1,4 +1,3 @@
-# data-mining-housing-value-prediction
 # Housing Value Prediction Using Linear Regression
 
 ## Project Overview
